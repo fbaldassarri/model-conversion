@@ -1,4 +1,4 @@
-﻿.vs
+.vs
 .vscode
 __pycache__
 auto_round.egg-info/
@@ -9,3 +9,4 @@ dist/
 .clangd
 CMakeUserPresets.json
 tmp_autoround/
+.DS_Store
